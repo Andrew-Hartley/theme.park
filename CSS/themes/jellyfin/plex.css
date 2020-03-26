@@ -14,8 +14,8 @@
 /* JELLYFIN PLEX THEME */
 @import url(https://gilbn.github.io/theme.park/CSS/themes/jellyfin/jellyfin-base.css);
 :root {
-  --main-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/Resources/blur-noise.png"), url("https://raw.githubusercontent.com/gilbN/theme.park/master/Resources/preset-light2.png") center center/cover no-repeat fixed;
-  --modal-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/Resources/blur-noise.png"), url("https://raw.githubusercontent.com/gilbN/theme.park/master/Resources/preset-dark2.png") center center/cover no-repeat fixed;
+  --main-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/Resources/blur-noise.png"), url("https://i.ibb.co/dQbLYVn/thumb-1920-822701.jpg") center center/cover no-repeat fixed;
+  --modal-bg-color: url("https://raw.githubusercontent.com/gilbN/theme.park/master/Resources/blur-noise.png"), url("https://i.ibb.co/dQbLYVn/thumb-1920-822701.jpg") center center/cover no-repeat fixed;
   --button-color: #cc7b19;
   --button-color-hover: #e59029;
   --accent-color:  #e5a00d;
